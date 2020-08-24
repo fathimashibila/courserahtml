@@ -5,7 +5,7 @@
 	}
 
 	// DO NOT attach the speakWord variable to the 'byeSpeaker' object.
-	var speakWord = "Hi";
+	var speakWord = "Good Bye";
 
 	window.goodbyeSpeaker = goodbyeSpeaker;
 
